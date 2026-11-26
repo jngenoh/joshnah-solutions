@@ -1,6 +1,6 @@
 # Joshnah Solutions website
 
-Company website for **Joshnah Solutions**, a Kenyan computing and data services company: digital census, GIS mapping, data collection, data entry, analysis, and websites.
+Company website for **Joshnah Solutions**, a Kenyan technology company: GIS mapping and digital census, website development, system design, e-commerce, digital marketing, Meta business solutions and graphic design.
 
 A static site with no build step: `index.html`, `styles.css`, `script.js` and `assets/`. It is hosted on GitHub Pages.
 
