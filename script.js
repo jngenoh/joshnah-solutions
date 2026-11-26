@@ -1,7 +1,7 @@
 // Joshnah Solutions site behaviour
 (function () {
   const WHATSAPP = "254726301706";
-  const EMAIL = "info@joshnahslotions.co.ke";
+  const EMAIL = "info@joshnahsolutions.co.ke";
 
   // Mobile menu
   const toggle = document.querySelector(".menu-toggle");
